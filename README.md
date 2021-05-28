@@ -39,3 +39,6 @@
 
 
 ## 7. Reboot
+
+#Google Spreadsheet Info
+https://github.com/burnash/gspread
